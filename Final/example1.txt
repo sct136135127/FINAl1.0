@@ -1,0 +1,114 @@
+Dawa move 3 2
+NormalCreature 12 move 7 5
+Dawa move 4 2
+NormalCreature 19 move 9 4
+Sanwa move 3 4
+Sanwa move 4 4
+Sanwa move 5 4
+NormalCreature 15 move 6 3
+Snake attack 2 3
+Snake attack 2 8
+Snake attack 4 2
+Erwa move 3 3
+NormalCreature 19 move 9 5
+NormalCreature 11 move 7 4
+Dawa move 4 3
+NormalCreature 15 move 5 3
+Liuwa move 3 7
+NormalCreature 13 move 7 6
+Wuwa attack 6 4
+Qiwa attack 5 3
+NormalCreature 17 attack 5 4
+Dawa move 5 3
+NormalCreature 20 move 10 5
+NormalCreature 10 move 7 3
+Dawa move 6 3
+NormalCreature 16 attack 6 3
+Dawa attack 6 4
+NormalCreature 18 move 8 3
+Scorpion move 7 2
+Siwa attack 5 5
+Siwa attack 7 4
+NormalCreature 17 attack 5 4
+Erwa attack 5 5
+NormalCreature 12 move 6 5
+NormalCreature 11 move 6 4
+Sanwa attack 5 5
+NormalCreature 12 move 7 5
+Erwa move 4 3
+NormalCreature 11 attack 6 3
+NormalCreature 12 move 6 5
+Sanwa attack 6 4
+NormalCreature 12 move 5 5
+Oldguy attack 4 3
+NormalCreature 19 move 8 5
+NormalCreature 18 move 8 4
+NormalCreature 14 move 7 7
+NormalCreature 14 move 6 7
+Erwa attack 6 4
+NormalCreature 18 move 7 4
+NormalCreature 20 move 9 5
+NormalCreature 18 move 6 4
+Sanwa attack 5 5
+NormalCreature 12 attack 5 4
+Erwa attack 6 4
+NormalCreature 20 move 9 6
+Sanwa attack 5 5
+NormalCreature 18 attack 5 4
+Erwa attack 6 4
+NormalCreature 13 move 6 6
+Sanwa attack 5 5
+NormalCreature 14 move 5 7
+Sanwa attack 6 4
+NormalCreature 19 move 7 5
+Snake attack 1 5
+Snake attack 3 7
+Snake attack 5 4
+Qiwa attack 6 6
+NormalCreature 14 move 4 7
+NormalCreature 19 move 6 5
+Erwa attack 6 5
+Scorpion move 6 2
+Erwa attack 6 2
+NormalCreature 14 attack 3 7
+Oldguy attack 2 8
+NormalCreature 19 move 5 5
+Oldguy attack 1 5
+NormalCreature 14 move 4 6
+Erwa attack 6 2
+NormalCreature 20 move 8 6
+NormalCreature 14 move 4 5
+NormalCreature 14 move 4 4
+NormalCreature 19 move 4 5
+Wuwa attack 4 4
+Erwa attack 6 2
+NormalCreature 19 move 5 5
+Erwa attack 6 2
+Snake attack 2 5
+Snake attack 2 8
+NormalCreature 19 move 4 5
+Erwa attack 6 2
+Wuwa attack 4 4
+NormalCreature 19 move 4 4
+Wuwa attack 8 6
+Siwa attack 4 4
+Siwa attack 8 6
+Erwa attack 6 2
+NormalCreature 19 attack 4 3
+Erwa attack 6 2
+Siwa attack 4 4
+Siwa attack 7 3
+Snake attack 2 5
+Snake attack 2 6
+Snake attack 4 3
+Oldguy attack 1 5
+Oldguy attack 2 6
+NormalCreature 10 move 6 3
+Wuwa attack 6 3
+Oldguy attack 2 6
+Wuwa attack 8 8
+Snake attack 1 5
+Oldguy attack 1 5
+Snake attack 1 5
+Snake attack 2 6
+Snake attack 2 6
